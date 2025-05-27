@@ -8,7 +8,7 @@ export default function Index() {
       source={require("../assets/images/react-logo.png")}
       // source={{uri: "https://avatars.githubusercontent.com/u/173110266?s=400&u=e44d1d323251be8b37169b57c1972440a8d4d9f5&v=4"}}
       />
-      <Button title="teste"/>
+      <Button title="teste" />
       <TouchableOpacity>
         <Text>Click</Text>
       </TouchableOpacity>
